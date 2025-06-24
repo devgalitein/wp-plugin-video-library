@@ -1,0 +1,234 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Video Library\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-06-18 09:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.8.1; php-8.0.30\n"
+"X-Domain: video-library"
+
+#: video-library.php:38
+msgid "Add New"
+msgstr ""
+
+#: video-library.php:81
+msgid "Add New Category"
+msgstr ""
+
+#: video-library.php:37
+msgctxt "add new on admin bar"
+msgid "Video"
+msgstr ""
+
+#: video-library.php:112
+msgid "Add New Tag"
+msgstr ""
+
+#: video-library.php:39
+msgid "Add New Video"
+msgstr ""
+
+#: video-library.php:115
+msgid "Add or remove tags"
+msgstr ""
+
+#. Description of the plugin
+msgid "Adds a Video Library CPT with AJAX listing and REST API support."
+msgstr ""
+
+#: video-library.php:36
+msgctxt "admin menu"
+msgid "Video Library"
+msgstr ""
+
+#: video-library.php:76 includes/front/video-listing.php:13
+msgid "All Categories"
+msgstr ""
+
+#: video-library.php:109
+msgid "All Tags"
+msgstr ""
+
+#: video-library.php:43
+msgid "All Videos"
+msgstr ""
+
+#: video-library.php:83
+msgid "Categories"
+msgstr ""
+
+#: video-library.php:116
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: video-library.php:79
+msgid "Edit Category"
+msgstr ""
+
+#: video-library.php:110
+msgid "Edit Tag"
+msgstr ""
+
+#: video-library.php:41
+msgid "Edit Video"
+msgstr ""
+
+#: includes/api/video-library-api.php:58 includes/api/video-library-api.php:154
+#: includes/api/video-library-api.php:215
+msgid "Invalid API key."
+msgstr ""
+
+#: video-library.php:82
+msgid "New Category Name"
+msgstr ""
+
+#: video-library.php:113
+msgid "New Tag Name"
+msgstr ""
+
+#: video-library.php:40
+msgid "New Video"
+msgstr ""
+
+#: includes/front/video-listing.php:116
+msgid "Next"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nexuslink"
+msgstr ""
+
+#: includes/api/video-library-api.php:128
+msgid "No videos found"
+msgstr ""
+
+#: video-library.php:47
+msgid "No videos found in Trash."
+msgstr ""
+
+#: video-library.php:46 includes/front/video-listing.php:122
+msgid "No videos found."
+msgstr ""
+
+#: video-library.php:77
+msgid "Parent Category"
+msgstr ""
+
+#: video-library.php:78
+msgid "Parent Category:"
+msgstr ""
+
+#: video-library.php:45
+msgid "Parent Videos:"
+msgstr ""
+
+#: video-library.php:108
+msgid "Popular Tags"
+msgstr ""
+
+#: video-library.php:34
+msgctxt "post type general name"
+msgid "Video Library"
+msgstr ""
+
+#: video-library.php:35
+msgctxt "post type singular name"
+msgid "Video Library"
+msgstr ""
+
+#: includes/front/video-listing.php:104
+msgid "Prev"
+msgstr ""
+
+#: video-library.php:75
+msgid "Search Categories"
+msgstr ""
+
+#: video-library.php:107
+msgid "Search Tags"
+msgstr ""
+
+#: video-library.php:44
+msgid "Search Videos"
+msgstr ""
+
+#: includes/front/video-listing.php:11
+msgid "Search videos..."
+msgstr ""
+
+#: video-library.php:114
+msgid "Separate tags with commas"
+msgstr ""
+
+#: video-library.php:117
+msgid "Tags"
+msgstr ""
+
+#: video-library.php:73
+msgctxt "taxonomy general name"
+msgid "Video Categories"
+msgstr ""
+
+#: video-library.php:105
+msgctxt "taxonomy general name"
+msgid "Video Tags"
+msgstr ""
+
+#: video-library.php:74
+msgctxt "taxonomy singular name"
+msgid "Video Category"
+msgstr ""
+
+#: video-library.php:106
+msgctxt "taxonomy singular name"
+msgid "Video Tag"
+msgstr ""
+
+#: includes/api/video-library-api.php:227
+msgid "Unable to fetch video categories"
+msgstr ""
+
+#: video-library.php:80
+msgid "Update Category"
+msgstr ""
+
+#: video-library.php:111
+msgid "Update Tag"
+msgstr ""
+
+#: includes/api/video-library-api.php:191
+msgid "Video details retrieved successfully"
+msgstr ""
+
+#. Name of the plugin
+msgid "Video Library"
+msgstr ""
+
+#: includes/api/video-library-api.php:135
+msgid "Video listing retrieved successfully"
+msgstr ""
+
+#: includes/api/video-library-api.php:164
+msgid "Video not found"
+msgstr ""
+
+#: includes/api/video-library-api.php:245
+msgid "Videos categories retrieved successfully"
+msgstr ""
+
+#: video-library.php:42
+msgid "View Video"
+msgstr ""
+
+#: includes/api/video-library-api.php:42
+msgid "You must be logged in to access details."
+msgstr ""
