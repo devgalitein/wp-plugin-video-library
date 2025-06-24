@@ -129,12 +129,12 @@ GET /wp-json/custom-vl/v1/video-listing
 
 | Parameter  | Type    | Description                                 |
 |------------|---------|---------------------------------------------|
-| search     | string  | Search keyword (in title or content).       |
-| category   | integer | Category term ID (taxonomy filter).         |
-| orderby    | string  | Sort by: `title`, `date`.                   |
-| order      | string  | Sorting order: `ASC` or `DESC`.             |
-| page       | integer | Page number (starts from 1).                |
-| per_page   | integer | Number of results per page (default is 10). |
+| `search`     | string  | Search keyword (in title or content).       |
+| `category`   | integer | Category term ID (taxonomy filter).         |
+| `orderby`    | string  | Sort by: `title`, `date`.                   |
+| `order`      | string  | Sorting order: `ASC` or `DESC`.             |
+| `page`       | integer | Page number (starts from 1).                |
+| `per_page`   | integer | Number of results per page (default is 10). |
 
 **Example:**
 
