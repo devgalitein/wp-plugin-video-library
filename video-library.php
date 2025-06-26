@@ -206,7 +206,7 @@ function vlp_register_video_tags_taxonomy() {
 add_action('init', 'vlp_register_video_tags_taxonomy');
 
 function ai1st_validate_video_api_key() {
-    if (!defined('AI1ST_VIDEO_SECRET_KEY')) {
+    if (!defined('BF_VIDEO_SECRET_KEY')) {
         return false;
     }
 
@@ -217,9 +217,9 @@ function ai1st_validate_video_api_key() {
         $normalized_headers[strtolower($key)] = $value;
     }
 
-    $provided_key = $normalized_headers['ai1st_video_secret_key'] ?? null;
+    $provided_key = $normalized_headers['bf_video_secret_key'] ?? null;
 
-    return $provided_key === AI1ST_VIDEO_SECRET_KEY;
+    return $provided_key === BF_VIDEO_SECRET_KEY;
 }
 
 /**

@@ -51,7 +51,7 @@ Embeds a Bunny.net video using an iframe.
 
 To enable secure access to custom REST API endpoints, add this constant to your `wp-config.php` file:
 
-define('AI1ST_VIDEO_SECRET_KEY', 'YOUR_SECRET_KEY');
+define('BF_VIDEO_SECRET_KEY', 'YOUR_SECRET_KEY');
 
 === Bunny.net Integration ===
 
@@ -84,11 +84,11 @@ The following endpoints are available:
 
 All REST API requests require:
 * JWT Authentication using the JWT Authentication for WP REST API plugin.
-* A valid AI1ST_VIDEO_SECRET_KEY passed via HTTP headers.
+* A valid BF_VIDEO_SECRET_KEY passed via HTTP headers.
 
 Required Headers:
 Authorization: Bearer YOUR_JWT_TOKEN
-AI1ST_VIDEO_SECRET_KEY: YOUR_SECRET_KEY
+BF_VIDEO_SECRET_KEY: YOUR_SECRET_KEY
 
 == API Usage ==
 
